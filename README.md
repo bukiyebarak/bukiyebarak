@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Bükiye from Turkey 🎈I'm a Computer Engineer. I have developed projects in the field of applied machine learning on data collection, analysis and backend technologies as C#-.Net, PHP-Laravel..⚡
+I'm Bükiye from Turkiye🎈 I'm a Computer Engineer. I have developed projects in the field of applied machine learning on data collection, analysis and backend technologies as C#-.Net, PHP-Laravel..⚡
 
 
 - 🔭 I’m currently working on Backend Technologies
