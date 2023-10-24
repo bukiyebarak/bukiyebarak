@@ -6,4 +6,3 @@ I'm Bükiye from Türkiye🎈 I'm a Computer Engineer. I have developed projects
 - 🔭 I’m currently working on Backend Technologies
 - 🌱 I’m currently learning .Net Framework & Laravel Framework
 - 💬 Ask me about C#, .Net Technologies,PHP, Laravel Framework, Python, Django Framework, C, Unity, MsSql, HTML, CSS, Machine Learning Methods, Pandas, Scikit-learn, Sentiment Analysis 
-- 📫 How to reach me: bukiyebarak@outlook.com
